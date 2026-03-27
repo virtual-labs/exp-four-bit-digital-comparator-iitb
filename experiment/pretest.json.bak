@@ -1,0 +1,47 @@
+[
+  {
+    "question": "IC 74LS85 compares _________",
+    "qid": 1,
+    "option_a": "Binary numbers.",
+    "option_b": "BCD codes",
+    "option_c": "Decimal numbers",
+    "option_d": "Hex numbers",
+    "correct_option": "a"
+  },
+  {
+    "question": "The IC 74LS85 has ___ Outputs.",
+    "qid": 2,
+    "option_a": "1",
+    "option_b": "2.",
+    "option_c": "3.",
+    "option_d": "4",
+    "correct_option": "c"
+  },
+  {
+    "question": "The IC 74LS85 has ___ cascading inputs.",
+    "qid": 3,
+    "option_a": "1",
+    "option_b": "2",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "c"
+  },
+  {
+    "question": "Which gate is best used as a basic comparator?",
+    "qid": 4,
+    "option_a": "OR",
+    "option_b": "Exclusive-OR",
+    "option_c": "NOT",
+    "option_d": "AND",
+    "correct_option": "b"
+  },
+  {
+    "question": "A Circuit that compares two numbers is called",
+    "qid": 5,
+    "option_a": "multiplexer",
+    "option_b": "comparator",
+    "option_c": "decoder",
+    "option_d": "amplifier",
+    "correct_option": "b"
+  }
+]

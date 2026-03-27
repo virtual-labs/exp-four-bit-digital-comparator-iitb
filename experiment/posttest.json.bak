@@ -1,0 +1,47 @@
+[
+  {
+    "question": "IC 74LS85 is a ____.",
+    "qid": 1,
+    "option_a": "Four-bit magnitude comparator.",
+    "option_b": "Adder",
+    "option_c": "Subtractor",
+    "option_d": "Multiplexer",
+    "correct_option": "a"
+  },
+  {
+    "question": "The IC 74LS85 has ___ sets of four bit inputs to be compared",
+    "qid": 2,
+    "option_a": "1",
+    "option_b": "2.",
+    "option_c": "3",
+    "option_d": "4",
+    "correct_option": "b"
+  },
+  {
+    "question": "One that is not outcome of magnitude comparator is",
+    "qid": 3,
+    "option_a": "a>b",
+    "option_b": "a-b",
+    "option_c": "a<b",
+    "option_d": "a=b",
+    "correct_option": "b"
+  },
+  {
+    "question": "Output of comparator when A = 1010 and B = 1011 is _______.",
+    "qid": 4,
+    "option_a": "A > B = 1, A < B = 0, A = B = 1.",
+    "option_b": "A > B = 0, A < B = 1, A = B = 0.",
+    "option_c": "A > B = 1, A < B = 0, A = B = 0.",
+    "option_d": "A > B = 0, A < B = 1, A = B = 1.",
+    "correct_option": "b"
+  },
+  {
+    "question": "Output of comparator when A = 1100 and B = 1010 is _______.",
+    "qid": 5,
+    "option_a": "A > B = 1, A < B = 0, A = B = 1.",
+    "option_b": "A > B = 0, A < B = 1, A = B = 0.",
+    "option_c": "A > B = 1, A < B = 0, A = B = 0.",
+    "option_d": "A > B = 0, A < B = 1, A = B = 1.",
+    "correct_option": "c"
+  }
+]
